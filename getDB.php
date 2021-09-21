@@ -5,7 +5,7 @@
 $user = '****';
 $pass = '****';
 $host = 'localhost';
-$dbName = "hsenglish";
+$dbName = "****";
 $dsn = "mysql:host={$host};dbname={$dbName};charset=utf8";
 $muni ="muniName";
 
